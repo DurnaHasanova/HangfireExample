@@ -1,0 +1,11 @@
+﻿
+@{
+	Exception ex = ViewData["Exception"] as Exception;
+	string path = ViewData["Url"] as string;
+	ViewData["Title"] = "Error1";
+}
+
+<h1>error1</h1>
+<h2>@ex.Message</h2>
+<h2>Error path: @path</h2>
+

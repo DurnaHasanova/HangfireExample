@@ -1,0 +1,74 @@
+2020-11-08 21:15:37.4600||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:15:37.5203||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:15:37.5313||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:15:37.5381||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:15:37.5381||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:15:37.7567||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:16:56.4236||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:16:56.4609||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:16:56.4609||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:16:56.4609||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:16:56.4609||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:16:57.1664||INFO|Logging.Controllers.HomeController|Using of index Page2 
+2020-11-08 21:29:49.8899||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:29:49.9209||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:29:49.9209||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:29:49.9298||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:29:49.9298||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:29:50.6289||INFO|Logging.Controllers.HomeController|Using of index Page2 
+2020-11-08 21:33:27.0554||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:33:27.0856||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:33:27.0856||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:33:27.0856||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:33:27.0856||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:33:27.7513||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:34:26.1823||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:34:26.2134||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:34:26.2134||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:34:26.2134||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:34:26.2287||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:34:26.8957||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:37:20.8111||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:37:20.8427||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:37:20.8427||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:37:20.8529||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:37:20.8529||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:37:21.4588||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:38:06.0005||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:38:06.0312||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:38:06.0312||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:38:06.0408||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:38:06.0408||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:38:06.6743||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:40:54.2226||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:40:54.2585||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:40:54.2585||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:40:54.2722||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:40:54.2722||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:40:54.8535||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:42:26.3211||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:42:26.3606||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:42:26.3666||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:42:26.3666||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:42:26.3666||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:42:26.9491||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:46:57.2238||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:46:57.2560||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:46:57.2560||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:46:57.2560||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:46:57.2728||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:46:57.5841||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:48:48.9518||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:48:48.9831||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:48:48.9831||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:48:48.9941||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:48:48.9941||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:48:49.5030||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:50:51.1049||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-08 21:50:51.1447||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-08 21:50:51.1546||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-08 21:50:51.1546||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-08 21:50:51.1656||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\99450\source\repos\Hangfire.Web\Logging 
+2020-11-08 21:50:51.8039||INFO|Logging.Controllers.HomeController|Using of index Page 
+2020-11-08 21:50:51.9680||ERROR|Logging.Controllers.HomeController|Attempted to divide by zero. System.DivideByZeroException: Attempted to divide by zero.
+   at Logging.Controllers.HomeController.Index() in C:\Users\99450\source\repos\Hangfire.Web\Logging\Controllers\HomeController.cs:line 38

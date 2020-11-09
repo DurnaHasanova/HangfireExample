@@ -1,0 +1,14 @@
+2020-11-08 21:15:37.7567||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:16:57.1664||INFO|Logging.Controllers.HomeController|Using of index Page2 |url: https://localhost/|action: Index
+2020-11-08 21:29:50.6289||INFO|Logging.Controllers.HomeController|Using of index Page2 |url: https://localhost/|action: Index
+2020-11-08 21:33:27.7513||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:34:26.8957||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:37:21.4588||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:38:06.6743||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:40:54.8535||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:42:26.9491||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:46:57.5841||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:48:49.5030||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:50:51.8039||INFO|Logging.Controllers.HomeController|Using of index Page |url: https://localhost/|action: Index
+2020-11-08 21:50:51.9680||ERROR|Logging.Controllers.HomeController|Attempted to divide by zero. System.DivideByZeroException: Attempted to divide by zero.
+   at Logging.Controllers.HomeController.Index() in C:\Users\99450\source\repos\Hangfire.Web\Logging\Controllers\HomeController.cs:line 38|url: https://localhost/|action: Index

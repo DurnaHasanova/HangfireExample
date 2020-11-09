@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger</name>
+    </assembly>
+    <members>
+        <member name="T:Swagger.Controllers.ProductsController">
+            <summary>
+            Productla ilgili controller
+            </summary>
+        </member>
+        <member name="M:Swagger.Controllers.ProductsController.#ctor(Swagger.Models.ProductShopDbContext)">
+            <summary>
+            Productla ilgili controller
+            </summary>
+        </member>
+        <member name="M:Swagger.Controllers.ProductsController.GetProducts">
+            <summary>
+            Bu endpoint tum urunleri geri doner Geriye json donuyor
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Swagger.Controllers.ProductsController.GetProduct(System.Int32)">
+            <summary>
+            Bu endpoint id ile getproduct eder
+            </summary>
+            <param name="id">urunun Id-si</param>
+            <returns></returns>
+            <response code="404">verilen id-ye sahib urun bulunamadi</response>
+            <response code="200">product bulundu</response>
+        </member>
+        <member name="M:Swagger.Controllers.ProductsController.PostProduct(Swagger.Models.Product)">
+             <summary>
+             Urun ekmelek icin
+             </summary>
+             
+             <returns></returns>
+             <remarks>
+             ornek: 
+             {
+             "name":"Apple",
+             "Price": 13.3,
+             "Category":1
+            
+             }
+             
+             </remarks>
+             <param name="product">json product</param>
+        </member>
+        <member name="P:Swagger.Models.Product.Id">
+            <summary>
+            Urun ID-si
+            </summary>
+        </member>
+        <member name="P:Swagger.Models.Product.Name">
+            <summary>
+            urun ismi required data
+            </summary>
+        </member>
+        <member name="P:Swagger.Models.Product.Price">
+            <summary>
+            urun fiyati required data
+            </summary>
+        </member>
+        <member name="P:Swagger.Models.Product.Category">
+            <summary>
+            urun kategorisi required data
+            </summary>
+        </member>
+    </members>
+</doc>
